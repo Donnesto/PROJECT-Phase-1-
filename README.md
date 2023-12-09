@@ -23,21 +23,13 @@ Conclusions and Presentation : Presenting the finding and explain the patterns a
 
 In our analysis we will use the following datasets
 
-tmdb.movies.csv: 
+tmdb.movies.csv: To understand the popularity and ratings of movies:To identify movies with the highest ratings, understand the relationship between the number of viewers and average votes, and investigate if a movie's average vote is influenced by its popularity.
 
-     To understand the popularity and ratings of movies:To identify movies with the highest ratings, understand the relationship between the number of viewers and average votes, and investigate if a movie's average vote is influenced by its popularity.
+tn.movie_budgets.csv : Understanding the financial aspects of movie production, specifically looking into production budgets, worldwide gross profits, and domestic profits. The main objectives are to identify movies with the highest gross profits both globally and domestically, and to gain insights into the distribution of movie profits.
 
-tn.movie_budgets.csv :
+Bom.movie_gross.csv: This was crucial in analyzing the financial performance of movies, understanding the distribution of revenue across different markets, and identifying successful studios or movie genres based on their box office performance
 
-     Understanding the financial aspects of movie production, specifically looking into production budgets, worldwide gross profits, and domestic profits. The main objectives are to identify movies with the highest gross profits both globally and domestically, and to gain insights into the distribution of movie profits.
-
-Bom.movie_gross.csv:
-
-     This was crucial in analyzing the financial performance of movies, understanding the distribution of revenue across different markets, and identifying successful studios or movie genres based on their box office performance
-
- im.db: 
-
-    This was important to understand top genres and also top directors as this will help Microsoft in knowing what kind of films have a higher reception among the audience also know what kind of people to collaborate with in this industry.
+ im.db: This was important to understand top genres and also top directors as this will help Microsoft in knowing what kind of films have a higher reception among the audience also know what kind of people to collaborate with in this industry.
     
 ## Recommendations
 Genre Investment:

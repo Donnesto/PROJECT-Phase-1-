@@ -7,7 +7,7 @@ In a move to ride the wave of the popular trend in original video content and ex
 
 The main aim of this analysis is to uncover the common factors among successful movies. This in-depth exploration will dive into historical data, genre trends, and audience preferences to provide actionable insights that guide the studio's content creation and production strategies. The ultimate goal is to provide practical advice to guide Microsoft's new movie studio as a global tech powerhouse, is strategically stepping into the entertainment arena, leveraging its tech expertise to create visually captivating and immersive film content.
 
-# d)Experimental Design
+# Experimental Design
 
 Data Collection: Collect data on the highest-grossing movies.Use data sources to obtain this information that includes variables such as genre, release year, production budget, and domestic gross revenue.
 
